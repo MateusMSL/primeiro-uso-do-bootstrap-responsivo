@@ -1,0 +1,116 @@
+       <div class="col-sm-12 mt-3" id="config_01"> 
+            
+            <div class="card mt-3 ml-5 card_01 shadow-lg p-3 mb-5 bg-body rounded" style="width: 23.8rem;">
+                <img src="img/link_minishcap.jpg" class="card-img-top"  alt="Link Majoras Mask">
+                <div class="card-body">
+                  <h5 class="card-title">Link Minish Cap </h5>
+                  <p class="card-text">Nesta linha do tempo, Você é Link. um simples filho de ferreiro... porém com o avançar da historia Link será o Heroi de Hyrule encolhendo, voando e explodindo tudo que ficar no seu caminho! </p>
+                  <a class="fw-semibold ml-5" href="https://www.zelda.com.br/tmc" target="_blank">  <font color="#f00"> Clique para saber mais! </font> </a>
+                  
+                </div>
+              </div>
+
+        </div>
+
+        <div class="col-sm-12 mt-3" id="config_02"> 
+            
+            <div class="card mt-3 ml-5 card_01 shadow-lg p-3 mb-5 bg-body rounded" style="width: 23.8rem;">
+                <img src="img/link_twilight.jpg" class="card-img-top"  alt="Link Majoras Mask">
+                <div class="card-body">
+                  <h5 class="card-title">Link Twilight Princess </h5>
+                  <p class="card-text">Nesta linha do tempo, diferente das anteriores, você é um pastoreiro de cabras? pode parecer estranho, mas isso inclusive faz parte da mecânica do jogo e é parte fundamental para conseguir a confiança do povo Goron e prosseguir para salvar Hyrule da corrupção do Crepusculo, Nessa Aventura você poderá se tornar um ágil lobo ou utilizar a forma humana para combater seus inimigos!</p>
+                  <a class="fw-semibold ml-5" href="https://www.zelda.com.br/tp" target="_blank">  <font color="#f00"> Clique para saber mais! </font> </a>
+                  
+                </div>
+              </div>
+
+        </div>
+
+        <div class="col-sm-12 mt-3" id="config_02"> 
+            
+            <div class="card mt-3 ml-5 card_01 shadow-lg p-3 mb-5 bg-body rounded" style="width: 23.8rem;">
+                <img src="img/link botw.webp" class="card-img-top"  alt="Link Majoras Mask">
+                <div class="card-body">
+                  <h5 class="card-title">Link Breath of the Wild </h5>
+                  <p class="card-text"> Tudo está um CAOS, você nao tem comida, roupas, armas e nem sequer memória, nao sabe exatamente porquê está ali mas despertou de um repouso de aproximadamente 100 anos e está sendo chamado em direção a calamidade ganon por uma voz familiar... </p>
+                  <a class="fw-semibold ml-5" href="https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild" target="_blank">  <font color="#f00"> Clique para saber mais! </font> </a>
+                  
+                </div>
+              </div>
+
+        </div>
+
+    </div>
+
+
+        <div class="col-sm-12 mt-3" id="config_03">
+
+            
+            <table class="table mt-3">
+                <thead class="table-dark">
+                  <TR class="tabela_inferior">
+                    <TD> Ágilidade </TD>
+                    <TD> Criatividade </TD>
+                    <TD> Poder </TD>
+                    <TD> Esgrima </TD>
+                    <TD> Versátil </TD>
+                  </TR>
+                </thead>
+                <tbody>
+                    <TR>
+                        <TD class="tabela_inferior"> Twilight Princess </TD>
+                        <TD class="tabela_inferior"> Minish Cap </TD>
+                        <TD class="tabela_inferior"> Majoras Mask </TD>
+                        <TD class="tabela_inferior"> Ocarina of Time </TD>
+                        <TD class="tabela_inferior"> BOTW </TD>
+                    </TR>
+
+                    <TR>
+                        <TD class="tabela_inferior"> BOTW </TD>
+                        <TD class="tabela_inferior"> BOTW </TD>
+                        <TD class="tabela_inferior"> BOTW  </TD>
+                        <TD class="tabela_inferior"> Twilight Princess </TD>
+                        <TD class="tabela_inferior"> Twilight Princess </TD>
+                    </TR>
+
+                    <TR>
+                        <TD class="tabela_inferior"> Majoras Mask </TD>
+                        <TD class="tabela_inferior"> Ocarina of Time </TD>
+                        <TD class="tabela_inferior"> Ocarina of Time </TD>
+                        <TD class="tabela_inferior"> Minish Cap </TD>
+                        <TD class="tabela_inferior"> Majoras Mask </TD>
+                    </TR>
+
+                    <TR>
+                        <TD class="tabela_inferior">   </TD>
+                        <TD class="tabela_inferior"> Majoras Mask </TD>
+                        <TD class="tabela_inferior">  </TD>
+                        <TD class="tabela_inferior"> Majoras Mask </TD>
+                        <TD class="tabela_inferior"> Minish Cap </TD>
+                    </TR>
+                </tbody>
+              </table>
+
+        </div>
+
+        <div class="col-sm-12 mt-3" id="config_05">
+
+            <div class="row g-3 mt-4">
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="Nome" aria-label="Nome" required>
+                </div>
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="Sobrenome" aria-label="Sobrenome" required>
+                </div>
+              </div>
+
+        </div>
+
+            <div class="col-sm-12 mt-3" id="config_04">
+            <h2 align="center">Escolha seu Favorito </h2> <br/>
+            <button type="button" class="btn btn-danger col-sm-12" onclick=""> Majoras Mask  </button> 
+            <br/><br/><button type="button" class="btn btn-success col-sm-12" onclick="">Ocarina of Time</button>
+            <br/><br/><button type="button" class="btn btn-info col-sm-12" onclick="">Breath Of the Wild</button>
+            <br/><br/><button type="button" class="btn btn-dark col-sm-12" onclick="">Twilight Princess</button>
+            <br/><br/><button type="button" class="btn btn-warning col-sm-12" onclick="">Minish Cap</button>
+            </div>
